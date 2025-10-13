@@ -85,5 +85,4 @@ Example:
 Joakim André Holtbakk Torp
 📍 Oslo, Norway
 💼 Aspiring Data Analyst
-🔗 LinkedIn
- | Portfolio
+🔗 [LinkedIn](https://linkedin.com/in/joakimtorp) | [Portfolio](https://joaht.github.io)
