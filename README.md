@@ -13,6 +13,7 @@ This repo documents my daily progress — short examples, quick notes, and refle
 ---
 
 ## 📂 Repository Structure
+```text
 data-analyst-daily-practice/
 │
 ├── week1_sql/
@@ -32,7 +33,7 @@ data-analyst-daily-practice/
 │
 └── reflections/
 ├── week1_summary.md
-
+```
 ---
 
 💡 *Each folder will grow gradually — this is a long-term log of my consistent practice.*
@@ -76,7 +77,7 @@ Example:
 **Wins:** Improved understanding of `DENSE_RANK()` vs `ROW_NUMBER()` and how to use `CASE` with `MAX()` for conditional aggregation.  
 **Challenges:** Remembering small MySQL syntax rules (trailing commas, missing aliases).  
 **Next Steps:** Keep practicing CTE chaining and start using real business datasets (e.g., Airbnb, e-commerce).
-
+```
 ---
 
 ✍️ Author
