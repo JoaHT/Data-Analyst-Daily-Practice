@@ -25,7 +25,7 @@
 | Day | Focus | Tasks | Done |
 |-----|--------|--------|------|
 | 1 | Window Functions Recap | Practice `LAG()`, `NTILE()`, and `RANK()` on StrataScratch or DataLemur | ✅ |
-| 2 | CTEs & Subqueries | Write 2–3 nested queries with real logic (retention, segmentation) | ☐ |
+| 2 | CTEs & Subqueries | Write 2–3 nested queries with real logic (retention, segmentation) | ✅ |
 | 3 | CASE & Aggregates | Create KPIs with conditional logic and summarize spending categories | ☐ |
 | 4 | SQL Challenge | Solve one business-style problem from DataLemur | ☐ |
 | 5 | Insight Writing | Pick one query and write 3 business sentences explaining the result | ☐ |
