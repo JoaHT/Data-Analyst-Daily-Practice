@@ -29,7 +29,7 @@
 | 3 | CASE & Aggregates | Create KPIs with conditional logic and summarize spending categories | ✅  |
 | 4 | Window Functions & CASE | Combining Window Functions + CASE for Segmentation Analysis | ✅ |
 | 5 | Case study | Full SQL Case Study – Trend, Segmentation & Business Insight | ✅ |
-| 6 | Review & Commit | Push SQL + notes to GitHub under `/week1_sql/` | ☐ |
+| 6 | Review & Commit | Push SQL + notes to GitHub under `/week1_sql/` | ✅ |
 | 7 | Rest / Reflection | Write `/reflections/week1_summary.md` | ☐ |
 
 ---
