@@ -1,6 +1,5 @@
 
-📄 `day1_data_modeling.md`
-```markdown
+
 # Day 1 – Data Modeling in Power BI
 
 **Focus:** Creating a structured Power BI data model ready for DAX analysis.
