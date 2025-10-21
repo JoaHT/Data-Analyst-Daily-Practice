@@ -13,3 +13,6 @@
 - `FILTER()` refines which rows are evaluated dynamically.
 - `ALL()` resets filters, allowing comparisons against the total.
 - Understanding context transition is fundamental to advanced DAX.
+
+**Next Step (Day 3):**
+Add interactivity — KPI cards, drill-through pages, and user-friendly storytelling features.
