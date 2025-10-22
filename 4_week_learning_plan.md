@@ -42,7 +42,7 @@
 |-----|--------|--------|------|
 | 1 | Data Modeling | Review relationships, star schema, and measure tables | ✅ |
 | 2 | DAX Basics | Practice `CALCULATE()`, `FILTER()`, and `ALL()` | ✅ |
-| 3 | KPI Cards & Drill-throughs | Add interactivity and filtering logic | ☐ |
+| 3 | KPI Cards & Drill-throughs | Add interactivity and filtering logic | ✅ |
 | 4 | Time Intelligence | Use `DATEADD()` or `SAMEPERIODLASTYEAR()` | ☐ |
 | 5 | Dashboard Polish | Improve layout, colors, storytelling elements | ☐ |
 | 6 | Publish & Share | Publish to Power BI Service and test view modes | ☐ |
